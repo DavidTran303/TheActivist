@@ -1,2 +1,1 @@
 # TheActivist
-The Activist is a clothing brand that I created hoping that everyone wearing my clothes will be reminded every day that they have greatness within themselves to change the world. Everyone that was born in this world, was here for a reason. I struggled finding motivation all of my life, lost, and no direction to go. But I realize, I wasn't the only one, I was here for a reason and this is my reason!
