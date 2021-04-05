@@ -3,9 +3,9 @@ import './App.css';
 import Nav from "./Components/Nav/Nav";
 import Card from "./Components/Card/CardData";
 import Home from "./pages/Home";
-import LoginButton from './Components/LoginButton/login-button';
 import {Auth0Provider} from '@auth0/auth0-react';
 import{BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+
 
 
 function App() {
@@ -24,10 +24,9 @@ function App() {
     <Route exact path={"/"}> 
       <Home />
     </Route>
-    <Route exact path ={"/login"}>
-      <LoginButton/> 
-    </Route>
+ 
     <Card />
+     
     </Switch>
     </Auth0Provider>
   </Router>

@@ -4,7 +4,7 @@ import {BrowserRouter as Router}  from 'react-router-dom';
 import './index.css';
 import App from './App';
 import "semantic-ui-css/semantic.min.css";
-import Auth0ProviderWithHistory from '../auth/auth0-provider-with-history';
+import Auth0ProviderWithHistory from './auth/auth0-provider-with-history';
 
 
 ReactDOM.render(
